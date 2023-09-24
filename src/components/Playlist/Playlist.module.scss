@@ -1,0 +1,141 @@
+.wrapper {
+    user-select: none;
+    position: relative;
+    display: flex;
+    width: var(--width);
+    height: 65%;
+    z-index: 1;
+    top: -5px;
+    // left: 50%;
+    // transform: translateX(-50%);
+    background: linear-gradient(150deg, rgb(168, 45, 72), rgb(1, 1, 39));
+
+    flex-direction: column;
+    .exit {
+        position: absolute;
+        font-size: 30px;
+        right: 4.5%;
+        top: 1.5%;
+    }
+    ul {
+        overflow: auto;
+        overflow: -moz-scrollbars-none;
+        -ms-overflow-style: none;
+        li {
+            cursor: pointer;
+        }
+    }
+
+    ul::-webkit-scrollbar {
+        width: 0 !important;
+        display: none;
+    }
+
+    h2 {
+        color: #fff;
+        font-weight: 400;
+        font-size: 22px;
+        margin: 10px 0 10px 16px;
+    }
+    .playing:hover {
+        border: 1px solid;
+    }
+
+    .playing {
+        color: #fff;
+        position: relative;
+        display: flex;
+        align-items: center;
+        top: 0;
+        left: 3%;
+        width: 94%;
+        height: 60px;
+        border-radius: 15px;
+        background-color: #95223d;
+        margin: 0 0 20px 0;
+
+        .song-index {
+            font-size: 16px;
+            margin: 0 6px 0 10px;
+        }
+
+        .name-author {
+            display: block;
+            margin-left: 20px;
+            align-items: center;
+            width: 54%;
+            .song-name {
+                margin: 6px 0 0 0;
+                font-size: 18px;
+                font-weight: 300;
+                line-height: 24px;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            }
+            .song-author {
+                font-size: 13px;
+                font-weight: 400;
+            }
+        }
+
+        .curr-img {
+            display: flex;
+            margin-left: 10px;
+            border-radius: 5px;
+            overflow: hidden;
+            width: 40px;
+            height: 40px;
+        }
+
+        .menu.done-icon {
+            display: none;
+        }
+
+        .done-icon {
+            position: absolute;
+            font-size: 19px;
+            top: 35%;
+            left: 79%;
+            color: #39e839;
+        }
+    }
+}
+.add {
+    position: absolute;
+    display: flex;
+    width: var(--width);
+    height: 100%;
+    top: 2px;
+    padding-top: 13px;
+
+    // left: 50%;
+    // transform: translateX(-50%);
+    background: linear-gradient(150deg, rgb(168, 45, 72), rgb(1, 1, 39));
+
+    flex-direction: column;
+    h2 {
+        margin: 8px 0 13px 15px;
+    }
+
+    ul {
+        height: 90%;
+    }
+}
+
+.heart {
+    position: absolute;
+    padding: 8px;
+    top: 11px;
+    left: 85%;
+    .like,
+    .liked {
+        position: relative;
+        color: #fff;
+        cursor: pointer;
+        font-size: 25px;
+    }
+    .liked {
+        color: rgb(248, 0, 103);
+    }
+}
