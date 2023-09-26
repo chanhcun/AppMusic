@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AppMusic/static/css/main.266cbb29.css",
-    "main.js": "/AppMusic/static/js/main.0da09f70.js",
+    "main.js": "/AppMusic/static/js/main.b6db6899.js",
     "static/js/787.514cbbf0.chunk.js": "/AppMusic/static/js/787.514cbbf0.chunk.js",
     "static/media/1.mp3": "/AppMusic/static/media/1.c19adec010085849107a.mp3",
     "static/media/36.mp3": "/AppMusic/static/media/36.33a61cedf01d365a2338.mp3",
@@ -100,11 +100,11 @@
     "static/media/0.PNG": "/AppMusic/static/media/0.74614716d9e4eeefa471.PNG",
     "index.html": "/AppMusic/index.html",
     "main.266cbb29.css.map": "/AppMusic/static/css/main.266cbb29.css.map",
-    "main.0da09f70.js.map": "/AppMusic/static/js/main.0da09f70.js.map",
+    "main.b6db6899.js.map": "/AppMusic/static/js/main.b6db6899.js.map",
     "787.514cbbf0.chunk.js.map": "/AppMusic/static/js/787.514cbbf0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.266cbb29.css",
-    "static/js/main.0da09f70.js"
+    "static/js/main.b6db6899.js"
   ]
 }
