@@ -74,8 +74,6 @@ function Audio() {
                         context.toSetIndex(arrayRandom[iRandom]);
                     } else {
                         context.toSetIndex(arrayRandom[0]);
-                        audioRef.current.load();
-                        audioRef.current.play();
                     }
                 } else {
                     context.toIncreaseIndex(context.index);
