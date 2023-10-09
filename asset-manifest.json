@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AppMusic/static/css/main.266cbb29.css",
-    "main.js": "/AppMusic/static/js/main.b6db6899.js",
+    "main.js": "/AppMusic/static/js/main.ee104881.js",
     "static/js/787.514cbbf0.chunk.js": "/AppMusic/static/js/787.514cbbf0.chunk.js",
     "static/media/1.mp3": "/AppMusic/static/media/1.c19adec010085849107a.mp3",
     "static/media/36.mp3": "/AppMusic/static/media/36.33a61cedf01d365a2338.mp3",
@@ -9,6 +9,7 @@
     "static/media/40.mp3": "/AppMusic/static/media/40.7417d8fcc906f8534dbc.mp3",
     "static/media/22.mp3": "/AppMusic/static/media/22.55c6ec86ff0a6a14b8b0.mp3",
     "static/media/30.mp3": "/AppMusic/static/media/30.a3a716c45ba9e4dd78e9.mp3",
+    "static/media/48.mp3": "/AppMusic/static/media/48.03ad9c23cffe87185c1f.mp3",
     "static/media/39.mp3": "/AppMusic/static/media/39.596fb81b2b82b24f65de.mp3",
     "static/media/43.mp3": "/AppMusic/static/media/43.abfd652f58a517eda02b.mp3",
     "static/media/45.mp3": "/AppMusic/static/media/45.c11fe394840d9e7ceec5.mp3",
@@ -51,6 +52,7 @@
     "static/media/13.mp3": "/AppMusic/static/media/13.263099df841658c214d1.mp3",
     "static/media/2.mp3": "/AppMusic/static/media/2.31cdcb2ef0a6fcca2ee7.mp3",
     "static/media/38.jpg": "/AppMusic/static/media/38.940203db33a28756fed9.jpg",
+    "static/media/48.jpg": "/AppMusic/static/media/48.4c437a2d065e29fd3d4c.jpg",
     "static/media/13.jpg": "/AppMusic/static/media/13.a549ecdf4d594a35f0b4.jpg",
     "static/media/8.jpg": "/AppMusic/static/media/8.52e6390ac5554d9ecc94.jpg",
     "static/media/17.jpg": "/AppMusic/static/media/17.b4e1a1ad6bdf808cecc7.jpg",
@@ -100,11 +102,11 @@
     "static/media/0.PNG": "/AppMusic/static/media/0.74614716d9e4eeefa471.PNG",
     "index.html": "/AppMusic/index.html",
     "main.266cbb29.css.map": "/AppMusic/static/css/main.266cbb29.css.map",
-    "main.b6db6899.js.map": "/AppMusic/static/js/main.b6db6899.js.map",
+    "main.ee104881.js.map": "/AppMusic/static/js/main.ee104881.js.map",
     "787.514cbbf0.chunk.js.map": "/AppMusic/static/js/787.514cbbf0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.266cbb29.css",
-    "static/js/main.b6db6899.js"
+    "static/js/main.ee104881.js"
   ]
 }
