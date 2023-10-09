@@ -46,3 +46,5 @@ export { default as song45 } from './45.mp3';
 export { default as song46 } from './46.mp3';
 export { default as song47 } from './47.mp3';
 export { default as song48 } from './48.mp3';
+export { default as song49 } from './49.mp3';
+export { default as song50 } from './50.mp3';

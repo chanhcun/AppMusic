@@ -47,6 +47,8 @@ import {
     image46,
     image47,
     image48,
+    image49,
+    image50,
 } from './images/index.js';
 import {
     song1,
@@ -97,6 +99,8 @@ import {
     song46,
     song47,
     song48,
+    song49,
+    song50,
 } from './musics/index.js';
 
 const songs = [
@@ -435,6 +439,20 @@ const songs = [
         singer: 'Krik ft G-Ducky',
         path: song48,
         img: image48,
+    },
+    {
+        index: 48,
+        name: 'Gấp Đôi Yêu Thương',
+        singer: 'Tuấn Hưng',
+        path: song49,
+        img: image49,
+    },
+    {
+        index: 49,
+        name: 'Cắt Đôi Nỗi Sầu',
+        singer: 'Tăng Duy Tân',
+        path: song50,
+        img: image50,
     },
 ];
 
