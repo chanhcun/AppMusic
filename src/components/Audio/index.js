@@ -28,13 +28,13 @@ function Audio() {
     // }, [src]);
     useEffect(() => {
         const audioElement = audioRef.current;
+        audioElement.load();
         const handleCanPlay = () => {
             if (context.play) {
                 audioElement.play();
             }
         };
         audioElement.addEventListener('canplaythrough', handleCanPlay);
-        audioElement.load();
         return () => {
             audioElement.removeEventListener('canplaythrough', handleCanPlay);
         };
@@ -54,14 +54,14 @@ function Audio() {
     const handleEnded = () => {
         if (context.shuffle) {
             if (context.repeat) {
-                audioRef.current.load();
+                // audioRef.current.load();
                 audioRef.current.play();
             } else {
                 context.toSetIndex(Math.round(Math.random() * songsLength));
             }
         } else {
             if (context.repeat) {
-                audioRef.current.load();
+                // audioRef.current.load();
                 audioRef.current.play();
             } else {
                 if (context.randomPlay) {

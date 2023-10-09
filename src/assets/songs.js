@@ -46,6 +46,7 @@ import {
     image45,
     image46,
     image47,
+    image48,
 } from './images/index.js';
 import {
     song1,
@@ -95,6 +96,7 @@ import {
     song45,
     song46,
     song47,
+    song48,
 } from './musics/index.js';
 
 const songs = [
@@ -426,6 +428,13 @@ const songs = [
         singer: 'Taylor Swift',
         path: song47,
         img: image47,
+    },
+    {
+        index: 47,
+        name: 'Bạn Đời',
+        singer: 'Krik ft G-Ducky',
+        path: song48,
+        img: image48,
     },
 ];
 
