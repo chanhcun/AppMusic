@@ -49,6 +49,7 @@ import {
     image48,
     image49,
     image50,
+    image51,
 } from './images/index.js';
 import {
     song1,
@@ -101,6 +102,7 @@ import {
     song48,
     song49,
     song50,
+    song51,
 } from './musics/index.js';
 
 const songs = [
@@ -453,6 +455,13 @@ const songs = [
         singer: 'Tăng Duy Tân',
         path: song50,
         img: image50,
+    },
+    {
+        index: 50,
+        name: 'Hit Me Up',
+        singer: 'BinZ',
+        path: song51,
+        img: image51,
     },
 ];
 
