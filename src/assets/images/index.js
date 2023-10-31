@@ -49,4 +49,3 @@ export { default as image47 } from './47.jpg';
 export { default as image48 } from './48.jpg';
 export { default as image49 } from './49.jpg';
 export { default as image50 } from './50.jpg';
-export { default as image51 } from './51.jpg';
