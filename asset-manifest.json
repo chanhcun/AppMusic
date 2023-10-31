@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/AppMusic/static/css/main.266cbb29.css",
-    "main.js": "/AppMusic/static/js/main.3e87c50b.js",
+    "main.js": "/AppMusic/static/js/main.8ea24df6.js",
     "static/js/787.514cbbf0.chunk.js": "/AppMusic/static/js/787.514cbbf0.chunk.js",
     "static/media/1.mp3": "/AppMusic/static/media/1.c19adec010085849107a.mp3",
     "static/media/36.mp3": "/AppMusic/static/media/36.33a61cedf01d365a2338.mp3",
     "static/media/41.mp3": "/AppMusic/static/media/41.5e97d382d28aa43b60e8.mp3",
+    "static/media/4.mp3": "/AppMusic/static/media/4.605dc107f8f6e48106af.mp3",
     "static/media/40.mp3": "/AppMusic/static/media/40.7417d8fcc906f8534dbc.mp3",
     "static/media/22.mp3": "/AppMusic/static/media/22.55c6ec86ff0a6a14b8b0.mp3",
     "static/media/30.mp3": "/AppMusic/static/media/30.a3a716c45ba9e4dd78e9.mp3",
@@ -21,7 +22,6 @@
     "static/media/16.mp3": "/AppMusic/static/media/16.8613956d9779929a1b84.mp3",
     "static/media/28.mp3": "/AppMusic/static/media/28.8617363064270aaf90b1.mp3",
     "static/media/7.mp3": "/AppMusic/static/media/7.2c789d07ba30dcdc2a58.mp3",
-    "static/media/4.mp3": "/AppMusic/static/media/4.8e5e55d8e3767d69ced1.mp3",
     "static/media/44.mp3": "/AppMusic/static/media/44.c1fef06af3f290c17754.mp3",
     "static/media/6.mp3": "/AppMusic/static/media/6.8d01bed69b168d135081.mp3",
     "static/media/25.mp3": "/AppMusic/static/media/25.75e8f989c94de6278a8e.mp3",
@@ -56,6 +56,7 @@
     "static/media/50.jpg": "/AppMusic/static/media/50.a1e50aa60b4bba26b061.jpg",
     "static/media/38.jpg": "/AppMusic/static/media/38.940203db33a28756fed9.jpg",
     "static/media/48.jpg": "/AppMusic/static/media/48.4c437a2d065e29fd3d4c.jpg",
+    "static/media/4.jpg": "/AppMusic/static/media/4.f7135a60ffe37f8dc909.jpg",
     "static/media/13.jpg": "/AppMusic/static/media/13.a549ecdf4d594a35f0b4.jpg",
     "static/media/8.jpg": "/AppMusic/static/media/8.52e6390ac5554d9ecc94.jpg",
     "static/media/17.jpg": "/AppMusic/static/media/17.b4e1a1ad6bdf808cecc7.jpg",
@@ -90,7 +91,6 @@
     "static/media/31.jpg": "/AppMusic/static/media/31.2d7692a604fe460a7197.jpg",
     "static/media/3.jpg": "/AppMusic/static/media/3.5df2013fd265357bd8a2.jpg",
     "static/media/47.jpg": "/AppMusic/static/media/47.d4a2225bba5f9bd5e7b5.jpg",
-    "static/media/4.jpg": "/AppMusic/static/media/4.d781a6af3fbe81adbf72.jpg",
     "static/media/33.jpg": "/AppMusic/static/media/33.6b1515276c15f614df16.jpg",
     "static/media/15.jpg": "/AppMusic/static/media/15.6940d793298df0a065af.jpg",
     "static/media/10.jpg": "/AppMusic/static/media/10.1fca34084741ca24eeee.jpg",
@@ -106,11 +106,11 @@
     "static/media/0.PNG": "/AppMusic/static/media/0.74614716d9e4eeefa471.PNG",
     "index.html": "/AppMusic/index.html",
     "main.266cbb29.css.map": "/AppMusic/static/css/main.266cbb29.css.map",
-    "main.3e87c50b.js.map": "/AppMusic/static/js/main.3e87c50b.js.map",
+    "main.8ea24df6.js.map": "/AppMusic/static/js/main.8ea24df6.js.map",
     "787.514cbbf0.chunk.js.map": "/AppMusic/static/js/787.514cbbf0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.266cbb29.css",
-    "static/js/main.3e87c50b.js"
+    "static/js/main.8ea24df6.js"
   ]
 }
